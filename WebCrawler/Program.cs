@@ -51,7 +51,7 @@ namespace WebCrawler
         private readonly string _jsonFilePath;
         private readonly string _sqliteConnectionString;
 
-        private readonly SemaphoreSlim _semaphore = new SemaphoreSlim(3); // Semaphore para controlar o número de execuções simultâneas.
+        private readonly SemaphoreSlim _semaphore = new SemaphoreSlim(3);
 
         /// <summary>
         /// Construtor do serviço do web crawler.
@@ -92,9 +92,9 @@ namespace WebCrawler
         private async Task ExtractAndSaveDataWithThrottlingAsync()
         {
             var tasks = new List<Task>();
-            for (int i = 0; i < 10; i++) // Exemplo: 10 iterações
+            for (int i = 0; i < 10; i++) 
             {
-                await _semaphore.WaitAsync(); // Aguarda permissão do semáforo para iniciar a execução.
+                await _semaphore.WaitAsync();
                 tasks.Add(Task.Run(async () =>
                 {
                     try
@@ -106,11 +106,11 @@ namespace WebCrawler
                     }
                     finally
                     {
-                        _semaphore.Release(); // Libera o semáforo após a execução.
+                        _semaphore.Release(); 
                     }
                 }));
             }
-            await Task.WhenAll(tasks); // Aguarda todas as tarefas serem concluídas.
+            await Task.WhenAll(tasks); 
         }
 
         /// <summary>
@@ -222,7 +222,7 @@ namespace WebCrawler
             ";
             command.Parameters.AddWithValue("@StartTime", endTime.AddMinutes(-1).ToString("yyyy-MM-dd HH:mm:ss")); // Subtrai 1 minuto para garantir que o início seja antes do fim.
             command.Parameters.AddWithValue("@EndTime", endTime.ToString("yyyy-MM-dd HH:mm:ss"));
-            command.Parameters.AddWithValue("@TotalPages", 0); // N/A nesta implementação
+            command.Parameters.AddWithValue("@TotalPages", 0); 
             command.Parameters.AddWithValue("@TotalProxies", totalProxies);
             await command.ExecuteNonQueryAsync();
         }

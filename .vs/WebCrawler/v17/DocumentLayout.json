@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaov\\Desktop\\TESTE_ELAW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED021-5198-4E00-A852-7B629BE212E2}|WebCrawler\\WebCrawler.csproj|c:\\users\\joaov\\desktop\\teste_elaw\\webcrawler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816ED021-5198-4E00-A852-7B629BE212E2}|WebCrawler\\WebCrawler.csproj|solutionrelative:webcrawler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED021-5198-4E00-A852-7B629BE212E2}|WebCrawler\\WebCrawler.csproj|c:\\users\\joaov\\desktop\\teste_elaw\\webcrawler\\webcrawler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{816ED021-5198-4E00-A852-7B629BE212E2}|WebCrawler\\WebCrawler.csproj|solutionrelative:webcrawler\\webcrawler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\Desktop\\TESTE_ELAW\\WebCrawler\\Program.cs",
+              "RelativeDocumentMoniker": "WebCrawler\\Program.cs",
+              "ToolTip": "C:\\Users\\joaov\\Desktop\\TESTE_ELAW\\WebCrawler\\Program.cs",
+              "RelativeToolTip": "WebCrawler\\Program.cs",
+              "ViewState": "AQIAANUAAAAAAAAAAAAkwPEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T01:02:12.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebCrawler",
+              "DocumentMoniker": "C:\\Users\\joaov\\Desktop\\TESTE_ELAW\\WebCrawler\\WebCrawler.csproj",
+              "RelativeDocumentMoniker": "WebCrawler\\WebCrawler.csproj",
+              "ToolTip": "C:\\Users\\joaov\\Desktop\\TESTE_ELAW\\WebCrawler\\WebCrawler.csproj",
+              "RelativeToolTip": "WebCrawler\\WebCrawler.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-27T01:02:08.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

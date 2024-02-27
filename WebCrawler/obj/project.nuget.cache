@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gv0nhkemikLM4GqbaqIzo1fFh16cUZUlJD9wvv68kmHpW4RnbqgOyL1pXldNeA+g1Ps+IIXES5v3unR9cTjQiQ==",
+  "dgSpecHash": "FStzTlPofHdyPt3zdDA4knU9VOj4IUJGzLWXFjYjE3V4vYuuoGaup+gvoJyraYm9PvnW+jeiyW9Eb5KTxRua7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joaov\\Desktop\\Projetos\\WebCrawler\\WebCrawler\\WebCrawler.csproj",
+  "projectFilePath": "C:\\Users\\joaov\\Desktop\\TESTE_ELAW\\WebCrawler\\WebCrawler.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaov\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\joaov\\.nuget\\packages\\htmlagilitypack\\1.11.59\\htmlagilitypack.1.11.59.nupkg.sha512",

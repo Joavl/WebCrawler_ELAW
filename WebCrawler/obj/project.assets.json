@@ -1625,11 +1625,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joaov\\Desktop\\Projetos\\WebCrawler\\WebCrawler\\WebCrawler.csproj",
+      "projectUniqueName": "C:\\Users\\joaov\\Desktop\\TESTE_ELAW\\WebCrawler\\WebCrawler.csproj",
       "projectName": "WebCrawler",
-      "projectPath": "C:\\Users\\joaov\\Desktop\\Projetos\\WebCrawler\\WebCrawler\\WebCrawler.csproj",
+      "projectPath": "C:\\Users\\joaov\\Desktop\\TESTE_ELAW\\WebCrawler\\WebCrawler.csproj",
       "packagesPath": "C:\\Users\\joaov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joaov\\Desktop\\Projetos\\WebCrawler\\WebCrawler\\obj\\",
+      "outputPath": "C:\\Users\\joaov\\Desktop\\TESTE_ELAW\\WebCrawler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joaov\\AppData\\Roaming\\NuGet\\NuGet.Config",
